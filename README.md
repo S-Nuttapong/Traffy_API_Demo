@@ -29,7 +29,8 @@ curl -F "image=@road/pit22.jpg" http://localhost:5000/"
 ### Result
 from terminal:
 
-![json response from RESTful API](/docker-compose/Test_Result/Screen Shot 2562-09-09 at 10.31.40.png)
+![json response from RESTful API](<img width="820" alt="screenshot" src="https://user-images.githubusercontent.com/52415315/64502359-f9b64700-d2ef-11e9-944f-af4999e9b51a.png">
+)
 
 compare to detection result from inference(python script):
 
