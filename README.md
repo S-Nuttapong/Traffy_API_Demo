@@ -9,7 +9,7 @@ Reference: https://docs.docker.com/compose/compose-file/compose-versioning/
 
 ### start docker compose
 ```
-cd PATH to DIR/Docker-compose
+cd <PATH to DIR>/docker-compose
 docker-compose up -d
 ```
 
@@ -18,3 +18,15 @@ docker-compose up -d
 from Docker-compose
 curl -F "image=@road/<image file> http://localhost:5000/"
 ```
+
+## Illustration
+```
+cd "$(pwd)/docker-compose"
+docker-compose up -d
+from Docker-compose
+curl -F "image=@road/pit22.jpg" http://localhost:5000/"
+```
+### Result
+from terminal:
+
+compare to detection result from inference(python script):
