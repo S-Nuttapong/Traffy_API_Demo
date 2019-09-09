@@ -1,0 +1,13 @@
+version: '2'
+services:
+  traffy_serving:
+    image: bjennings3/traffy_serving:latest
+    container_name: traffy_serving
+    ports:
+      - "8501:8501"
+  
+  traffy_app:
+    image: bjennings3/traffy_app:latest
+    container_name: traffy_app
+    ports:
+      - "5000:5000"
