@@ -16,7 +16,7 @@ docker-compose up -d
 ### making request
 ```
 from Docker-compose
-curl -F "image=@road/<image file> http://localhost:5000/"
+curl -F "image=@road/<image file> http://localhost:5000/
 ```
 
 ## Illustration
@@ -24,7 +24,7 @@ curl -F "image=@road/<image file> http://localhost:5000/"
 cd "$(pwd)/docker-compose"
 docker-compose up -d
 from Docker-compose
-curl -F "image=@road/pit22.jpg" http://localhost:5000/"
+curl -F "image=@road/pit22.jpg" http://localhost:5000/
 ```
 ### Result
 ![json response from RESTful API](<img width="741" alt="Screen Shot 2562-09-09 at 11 08 03" src="https://user-images.githubusercontent.com/52415315/64502947-17d17680-d2f3-11e9-8479-339aa996a8eb.png">)
