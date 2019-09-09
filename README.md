@@ -31,4 +31,4 @@ from terminal:
 
 compare to detection result from inference(python script):
 
-![output image from inference](../docker-compose/Test_Result/pit22.jpg)
+![output image from inference](/docker-compose/Test_Result/pit22.jpg)
