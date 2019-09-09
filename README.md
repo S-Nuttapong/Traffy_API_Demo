@@ -27,7 +27,7 @@ from Docker-compose
 curl -F "image=@road/pit22.jpg" http://localhost:5000/"
 ```
 ### Result
-![json response from RESTful API](/52415315/64502947-17d17680-d2f3-11e9-8479-339aa996a8eb.png>)
+![json response from RESTful API](/52415315/64502947-17d17680-d2f3-11e9-8479-339aa996a8eb.png)
 
 compare to detection result from inference(python script):
 
