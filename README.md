@@ -29,7 +29,7 @@ curl -F "image=@road/pit22.jpg" http://localhost:5000/"
 ### Result
 from terminal:
 
-![json response from RESTful API]https://user-images.githubusercontent.com/52415315/64502359-f9b64700-d2ef-11e9-944f-af4999e9b51a.png?raw=True "Optional True")
+![json response from RESTful API]https://user-images.githubusercontent.com/52415315/64502359-f9b64700-d2ef-11e9-944f-af4999e9b51a.png?raw=True)
 
 compare to detection result from inference(python script):
 
