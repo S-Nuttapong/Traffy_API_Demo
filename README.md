@@ -28,7 +28,8 @@ curl -F "image=@road/pit22.jpg" http://localhost:5000/"
 ```
 ### Result
 from terminal:
+[json response from RESTful API](/docker-compose/Test_Result/Screen Shot 2562-09-09 at 10.31.40.png)
 
 compare to detection result from inference(python script):
 
-![output image from inference](/docker-compose/Test_Result/pit22.jpg)
+[output image from inference](/docker-compose/Test_Result/pit22.jpg)
