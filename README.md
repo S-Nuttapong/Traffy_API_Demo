@@ -1,5 +1,5 @@
 # Traffy_API_Demo
-This is on going project from [Traffy Demo]('https://github.com/S-Nuttapong/Traffy_Demo')
+This is on going project from [Traffy Demo](https://github.com/S-Nuttapong/Traffy_Demo)
 Demo for testing Object Detection API via Docker container
 
 ## Requirement
