@@ -1,6 +1,7 @@
 # Traffy_API_Demo
 This is on going project from [Traffy Demo](https://github.com/S-Nuttapong/Traffy_Demo)
-Demo for testing Object Detection API via Docker container
+
+Testing Object Detection API for Public Sanitation and Infrastructure  with  Docker Container
 
 ## Requirement
 Docker Compose 1.6.0+ and require a Docker Engine of version 1.10.0+.
