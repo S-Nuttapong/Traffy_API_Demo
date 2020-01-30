@@ -4,7 +4,7 @@ This is on going project from [Traffy Demo](https://github.com/S-Nuttapong/Traff
 Testing Object Detection API for Public Sanitation and Infrastructure  with  Docker Container
 
 ## Requirement
-Docker Compose 1.6.0+ and require a Docker Engine of version 1.10.0+.
+Docker Compose 1.6.0+ and Docker Engine of version 1.10.0+.
 Reference: https://docs.docker.com/compose/compose-file/compose-versioning/
 
 ## Request API
